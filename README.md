@@ -8,7 +8,7 @@ Icon images designed by smashicons from Flaticon
 
 ## Main Features
 - The reviews of the company you are looking at on the job site is searched and displayed on the Chrome Extension
-job site you can use this extension: `saramin` and `jobplanet`
+- Sites you can use this extension: `saramin` and `jobplanet`
 -  Offers a shortcut button
 
 ## How to test
