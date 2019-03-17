@@ -1,0 +1,17 @@
+{
+  "name": "GOODJOB!",
+  "version": "1.0.1",
+  "manifest_version": 2,
+  "description": "잡코리아, 사람인 채용 페이지에서 잡플래닛 정보를 즉시 확인하세요!",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "content_security_policy": "script-src 'self' 'unsafe-eval' 'sha256-58SiXyrWuFlABail/cU1bcaDe9Ltv6p+HoIncVxqZVQ=' https://jpassets.jobplanet.co.kr; object-src 'self';",
+  "permissions": ["tabs", "<all_urls>"]
+}
