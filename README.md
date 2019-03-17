@@ -1,6 +1,8 @@
 # GOODJOB
 Chrome extension showng company's information searched on JobPlanet
+
 Check out on [Chrome Webstore](https://chrome.google.com/webstore/detail/goodjob/chmdlaojeajbilalafghhimfipenojgk)
+
 Icon images designed by smashicons from Flaticon
 
 
