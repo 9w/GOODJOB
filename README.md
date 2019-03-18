@@ -1,5 +1,5 @@
 # GOODJOB
-Chrome extension showng company's information searched on JobPlanet
+Chrome extension displaying company's information searched on JobPlanet
 
 Check out on [Chrome Webstore](https://chrome.google.com/webstore/detail/goodjob/chmdlaojeajbilalafghhimfipenojgk)
 
